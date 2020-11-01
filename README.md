@@ -2,9 +2,9 @@
 
 ## Cotent
 
-Statistical analysis 
-Introduction to probability
-Probability distributions
+Statistical analysis   
+Introduction to probability  
+Probability distributions  
 Hypothesis testing & scores
 Application of statistics in analysis
 probability and different probability distributions
