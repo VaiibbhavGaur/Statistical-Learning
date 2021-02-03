@@ -14,4 +14,5 @@ Perform Test of Hypothesis as well as calculate confidence interval for a popula
 
 ## Projects  
 CardioGoodFitness - Descriptive Statistics  
+Analyzed health information to make decisions for insurance business
 
